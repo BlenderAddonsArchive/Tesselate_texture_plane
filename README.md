@@ -8,6 +8,7 @@ Blender addon - Tesselate texture plane
 
 ### /!\ IMPORTANT NOTES:
 
+  - Releases from release pages are only for older Blender version. Latest is only accessible from link above (or using download repository as zip)
   - **Running blender as admin** might be needed at first activation to enable auto-installation of needed third party modules (tested on windows)
   - **save before use !** Triangulating can crash with some images and/or settings (stable in "contour only" mode).
 
